@@ -1,3 +1,5 @@
+## This app is basically a chat application made with the help of chat engine.io tool. In this tool, you first need to make an id for project and particular names for the usernames that you want to use in the chat application. Feel free to visit the https://chatengine.io/ for more information.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
